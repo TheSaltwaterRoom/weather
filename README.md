@@ -2,6 +2,8 @@
 
 基于  [高德开放平台](https://lbs.amap.com/dev/id/newuser) 的 PHP 天气信息组件。
 
+[![Tests](https://github.com/TheSaltwaterRoom/weather/actions/workflows/tests.yml/badge.svg)](https://github.com/TheSaltwaterRoom/weather/actions/workflows/tests.yml)
+
 ## 安装
 
 ```sh
