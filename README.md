@@ -17,7 +17,7 @@ $ composer require saltwater/weather -vvv
 ```php
 use Saltwater\Weather\Weather;
 
-$key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxx';
+$key = 'xxxxxxxxxxxxxxxxxxxxxxx';
 
 $weather = new Weather($key);
 ```
